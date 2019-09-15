@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+}
+.container{width: 1300px;height: 800px;background: #3a3a3a;margin: 10px auto;}
+
+.box1{
+width: 433.33px;    
+height: 200px;
+float: right;    
+}
+.box2{
+width: 1300px;    
+height: 200px;
+float: left;     
+}
+.box3{
+width: 650px;    
+height: 200px;
+float: left;   
+}
+.box4{
+width: 66.66%;    
+height: 200px;
+float: left;   
+}
+.box5{
+width: 16.67%;    
+height: 200px;
+float: left;   
+}  
+
+.C1{background: #72117d;}
+
+.C2{  
+background: #2291f3;
+}
+.C3{
+    
+background: #f1657f;
+}
+.C22{
+ background: #3c3631;
+}
+
+.C331{background: #710600;}
+.C332{
+  background: #1e117d;
+}
+.C4{
+ background: #f1657f;   
+}
+.C51{
+ background: #117d73;    
+}
+.C52{
+  background: #2291f3;  
+}
